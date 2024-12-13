@@ -1,0 +1,23 @@
+.wavesurfer-container {
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.wavesurfer-container wave {
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.wavesurfer-play-button {
+  background-color: #4a9eff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.wavesurfer-play-button:hover {
+  background-color: #1e429f;
+}
